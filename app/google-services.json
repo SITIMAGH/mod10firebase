@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "785108562461",
+    "firebase_url": "https://projectmod10ppb-default-rtdb.firebaseio.com",
+    "project_id": "projectmod10ppb",
+    "storage_bucket": "projectmod10ppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785108562461:android:77fd56f07634e82b28ccf4",
+        "android_client_info": {
+          "package_name": "com.example.firebasemod10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUws5Oxv8h8o8tn68KzQAEnTKdBhPXfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785108562461:android:c50c61602226dbc928ccf4",
+        "android_client_info": {
+          "package_name": "com.example.mod10firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUws5Oxv8h8o8tn68KzQAEnTKdBhPXfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785108562461:android:4434520e1228814628ccf4",
+        "android_client_info": {
+          "package_name": "com.example.mod10firebasepart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUws5Oxv8h8o8tn68KzQAEnTKdBhPXfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785108562461-elb6rf06rg24talpadr9tajccm0ckv0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
